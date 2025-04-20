@@ -61,7 +61,7 @@ Typical tone = lifestyle + optimism.
 git clone https://github.com/sriraamp/ads-analysis-germany.git
 cd ads-analysis-germany
 
----
+Germany Version:
 
 # Analyse der Werbung in Deutschland (2019–2024)
 
